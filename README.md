@@ -26,7 +26,7 @@ I’m passionate about crafting visual identities and compelling designs, primar
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fikdev-401&show_icons=true&theme=radical)
+![Fikdev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fikdev-401&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fikdev-401&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
