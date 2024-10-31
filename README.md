@@ -10,9 +10,9 @@ I am a student at **Politeknik IDN**, majoring in **Software Engineering**. Curr
 ### 🔥 What I'm Learning:
 - 📱 **Flutter** for mobile app development
 - 🌐 **Fullstack Web Development** with:
-  - **Frontend**: React, Laravel
+  - **Frontend**: React, Laravel, AstroJS
   - **Backend**: Laravel, Express
-  - **Database**: MySQL
+  - **Database**: MySQL, PostgresSQL, Supabase
 
 ## 💼 Freelance Design Work
 I’m passionate about crafting visual identities and compelling designs, primarily working as a freelance designer for **Neonella**, where I focus on:
